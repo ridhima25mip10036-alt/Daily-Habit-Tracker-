@@ -1,5 +1,4 @@
-# HabiMate
-– Your Personalized Daily Habit Tracker
+# HabiMate – Your Personalized Daily Habit Tracker
 
 # Overview of the Project
 
